@@ -12,3 +12,6 @@ The implementation of the Behavior Tree appears in two classes:
              between tasks in the Roomba's Roamings Behavior Tree
 
 This solution uses higher-order functions to simulate a hierarchy of node types.
+
+Includes a copy of functools.py, as it is not as popular as other Python
+packages.
